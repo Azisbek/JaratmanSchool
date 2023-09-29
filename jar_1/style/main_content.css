@@ -1,0 +1,203 @@
+@media (min-width: 501px) and (max-width: 2000px) {
+  .content_block_text {
+    width: 100%;
+    height: 20%;
+    background: #fff0e9;
+    margin-top: 123px;
+    display: block;
+  }
+  .text_oglavlenia {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 119px;
+  }
+  .text_oglavlenia_p {
+    font-family: "Montserrat Alternates";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 43px;
+    text-align: center;
+    color: #000000;
+  }
+  .text_jaratman_content_text {
+    font-family: "Montserrat Alternates";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 46px;
+    text-align: center;
+    gap: 10px;
+    color: #3140a8;
+  }
+  .text_school_content_text {
+    font-family: "Montserrat Alternates";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 46px;
+    text-align: center;
+
+    color: #ff6d1a;
+  }
+
+  /* --------------content text block----------------- */
+
+  .block_text {
+    margin-top: 127px;
+    padding-left: 200px;
+    padding-right: 200px;
+  }
+  .content_tema {
+    font-family: "Montserrat Alternates";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 37px;
+    /* identical to box height */
+
+    color: #3140a8;
+  }
+  .text_block {
+    width: 569px;
+    height: 120px;
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+
+    color: #000000;
+  }
+  .text_block2 {
+    /* display: table; */
+    width: 590px;
+    height: 150px;
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+
+    color: #000000;
+  }
+  .text_block3 {
+    width: 590px;
+    height: 90px;
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+
+    color: #000000;
+  }
+
+  .text_podrobnee {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 30px;
+    /* identical to box height */
+
+    color: #ff6e2e;
+  }
+  .content_text_1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 132px;
+  }
+
+  .content_directions {
+    margin-top: 105px;
+    padding-left: 20%;
+    padding-right: 20%;
+  }
+
+  .text_directions_glav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .text_2_directions {
+    width: 859px;
+    height: 54px;
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+    color: #000000;
+  }
+  .img_naprav_container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 55px;
+  }
+  .block_img {
+    width: 545px;
+    height: 250px;
+    display: flex;
+  }
+
+  /* ----------------------------------------------------------- */
+
+  .teacher_container_block {
+    margin-top: 145px;
+  }
+  .text_teacher_block {
+    display: flex;
+    justify-content: center;
+  }
+  .modal2 {
+    /* display: block; */
+    margin-top: 200px;
+  }
+  .block_img:hover {
+    transform: scale(1.1);
+
+    transition: 0.5s;
+  }
+  .teacher_img {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-right: 140px;
+    margin-left: 140px;
+  }
+  .img_teacher:hover {
+    transform: scale(1.05);
+    transition: 0.5s;
+  }
+  .p_teacher_name {
+    font-family: "Montserrat Alternates";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    width: 187px;
+    text-align: center;
+    color: #ff6d1a;
+    /* margin-top: 3px; */
+  }
+  .p_teacher_profesion {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    color: #000000;
+    margin-top: -19px;
+  }
+  .container_teacher_name {
+    display: flex;
+    justify-content: center;
+  }
+}

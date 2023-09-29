@@ -1,0 +1,81 @@
+@media (min-width: 501px) and (max-width: 2000px) {
+  body {
+    margin: 0 auto;
+    box-sizing: border-box;
+  }
+
+  .icons {
+    width: 70px;
+    height: 52.09px;
+  }
+
+  .container_header {
+    background-image: url("../img/Обложка.png");
+    width: 100%;
+    height: 900px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    /* background-attachment: fixed; */
+  }
+  .container_header {
+    display: flex;
+    gap: 13px;
+    gap: 382px;
+    padding-top: 30px;
+    justify-content: space-around;
+  }
+
+  .header_container_text {
+    margin-top: -10px;
+  }
+
+  .text_header {
+    /* text-align: center; */
+    font-family: "Montserrat Alternates";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17.86px;
+    line-height: 22px;
+    color: #2c3ebc;
+  }
+  .text_header2 {
+    font-family: "Montserrat Alternates";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24.4071px;
+    line-height: 30px;
+    text-align: center;
+    color: #ff6d1a;
+  }
+
+  .ul-list-item {
+    display: flex;
+    gap: 42px;
+  }
+
+  .list-item {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    list-style: none;
+    color: #ffffff;
+    text-decoration: none;
+  }
+  .list-item:hover {
+    color: #ff6d1a;
+    font-style: normal;
+  }
+
+  .header_icons {
+    display: flex;
+    gap: 10px;
+  }
+  #one {
+    color: #ff6d1a;
+  }
+}

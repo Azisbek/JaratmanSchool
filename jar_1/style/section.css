@@ -1,0 +1,113 @@
+@media (min-width: 501px) and (max-width: 2000px) {
+  .section-container {
+    margin-top: 51px;
+    width: 1200px;
+    height: 570px;
+    background: #fff0e9;
+    border-radius: 30px;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+  }
+
+  .text_section_1 {
+    margin-top: -12px;
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 64px;
+    color: #3140a8;
+  }
+
+  .text_section_2 {
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 64px;
+    text-align: center;
+    color: #ff6d1a;
+  }
+
+  .text_section_3 {
+    margin-top: -40px;
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 46px;
+    line-height: 53px;
+    color: #000000;
+  }
+  .text_section_4 {
+    margin-top: -30px;
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 46px;
+    line-height: 53px;
+    color: #3140a8;
+  }
+  .text_section_5 {
+    width: 463px;
+    height: 75px;
+    left: 245px;
+    top: 440px;
+
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+
+    color: #000000;
+  }
+  .text_section_school {
+    display: flex;
+  }
+
+  .container_section_text-1 {
+    margin-top: 78px;
+    margin-left: 85px;
+  }
+
+  .button_style_section {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+    color: #ffffff;
+    width: 289px;
+    height: 61px;
+    left: 245px;
+    top: 558px;
+    background: #ff6d1a;
+    border-radius: 10px;
+    margin-top: 43px;
+    border: none;
+  }
+
+  .img_one_section {
+    display: flex;
+
+    flex-wrap: wrap;
+    width: 500px;
+    margin-left: 118px;
+    margin-top: 78px;
+    gap: 15px;
+  }
+
+  .img {
+    width: 200px;
+    height: 200px;
+    gap: 10px;
+  }
+  .img1 {
+    margin-top: -13px;
+    gap: 10px;
+    width: 200px;
+    height: 220px;
+  }
+}
